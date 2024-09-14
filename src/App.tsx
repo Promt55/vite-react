@@ -1,13 +1,19 @@
 
 import './App.css'
+import demo from './assets/Resume_.png'
 
 function App() {
   
 
   return (
-    <>
-      hello
-    </>
+   <>
+   <div>
+    <img src = {demo}/>
+   </div>
+   
+   
+   
+   </>
   )
 }
 
